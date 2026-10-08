@@ -1,0 +1,6 @@
+{
+  "name": "Maktabgacha Ta'lim - Bolalar Uchun O'yinlar",
+  "description": "3-7 yoshli bolalar uchun zamonaviy interaktiv didaktik o'yinlar, ranglar, raqamlar, meva-sabzavotlar va hayvonlarni o'rgatuvchi Android ta'lim platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
